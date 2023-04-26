@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DonationApplication {
 
 	public static void main(String[] args) {
-		System.out.println("hello ci world");
+		System.out.println("hello ci world2");
 		SpringApplication.run(DonationApplication.class, args);
 	}
 
